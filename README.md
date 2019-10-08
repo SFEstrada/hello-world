@@ -1,4 +1,4 @@
 # hello-world
 Starting with GitHub
 
-Currently learning Android programming and rehearsing some Python!
+Currently learning web-development and rehearsing some Python!
